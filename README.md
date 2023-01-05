@@ -41,3 +41,17 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
+
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
+
+````
+```
+Look! You can see my backticks.
+```
+````
